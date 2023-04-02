@@ -15,7 +15,7 @@ max_deposit = 100000
 import time
 
 print('\n-----------------------------------')
-print('            nATM Machine')
+print('            ATM Machine')
 print('-----------------------------------\n')
 
 print('Please insert your ATM Card\n')
@@ -80,7 +80,7 @@ if pin == acc_mpin:
                 else:
                     print("\nPlease enter correct tpin")
             if option == 6:
-                print('\nThank you for visiting nATM Machine.\n')
+                print('\nThank you for visiting ATM Machine.\n')
                 break
         else:
             print("\nPlease choose the valid option")
