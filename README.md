@@ -1,2 +1,2 @@
 # atm_
-It's an ATM machine.
+I am ATM machine!
